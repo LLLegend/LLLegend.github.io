@@ -8,9 +8,7 @@
 # Site settings
 title: MY BLOG
 email: 1090313803@qq.com
-description:  Write an awesome description for your new site here. You can edit this
-              line in _config.yml. It will appear in your document head meta (for
-              Google search results) and in your feed.xml site description.
+description:  This is a personal blog to write down my experience during the learning life about IT area,and I'll share all I've studied here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: none
